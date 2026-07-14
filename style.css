@@ -1,0 +1,15 @@
+#main-stuff {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin: 20px;
+}
+
+#snow-leopards {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+* {
+    background-color: #e0e0e0;
+}
